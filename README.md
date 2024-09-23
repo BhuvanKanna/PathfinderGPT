@@ -8,7 +8,7 @@ PathfinderGPT is a clone of Google's AI bot, Gemini, developed using the Gemini 
 ## Installation
 
 1. Clone the repository: 
-   ``https://github.com/BhuvanKanna/PathfinderGPT.git``
+   ``git clone https://github.com/BhuvanKanna/PathfinderGPT.git``
    ``cd PathfinderGPT``
    
 3. Install dependencies:
