@@ -7,17 +7,16 @@ This project is a clone of Google's AI bot, Gemini, developed using the Gemini A
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: 
+   ``https://github.com/BhuvanKanna/PathfinderGPT.git``
+   ``cd gemini-clone-app``
    
-   ``git clone https://github.com/yourusername/gemini-clone-app.git``
-    ``cd gemini-clone-app``
-   
-2. Install dependencies:
+3. Install dependencies:
    ``npm install``
    ``npm install @google/generative-ai``
 
 4. Start the development server
-   ``npm start``
+   ``npm run dev``
 
 ## Usage
 
