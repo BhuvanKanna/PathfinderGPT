@@ -1,4 +1,4 @@
-This project is a clone of Google's AI bot, Gemini, developed using the Gemini API and React.
+PathfinderGPT is a clone of Google's AI bot, Gemini, developed using the Gemini API and React.
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@ This project is a clone of Google's AI bot, Gemini, developed using the Gemini A
 
 1. Clone the repository: 
    ``https://github.com/BhuvanKanna/PathfinderGPT.git``
-   ``cd gemini-clone-app``
+   ``cd PathfinderGPT``
    
 3. Install dependencies:
    ``npm install``
@@ -20,4 +20,4 @@ This project is a clone of Google's AI bot, Gemini, developed using the Gemini A
 
 ## Usage
 
-Interact with the AI bot by inputting standard or your own text queries and receiving responses from the Gemini API.
+Interact with the AI bot by inputting standard or your own text queries and receiving responses from the Gemini API. In the gemini.js file, edit the prompt to enhance chatbot responses.
