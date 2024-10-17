@@ -1,7 +1,8 @@
 import code from "./code.png";
 import compass from "./compass.png";
 import gallery from "./gallery.png";
-import pathfinderlogo from "./pathfinderlogo.png";
+import avocadoicon from "./avocadoicon.png";
+import avocadologo from "./avocadologo.png";
 import history from "./history.png";
 import lightbulb from "./lightbulb.png";
 import menu from "./menu.png";
@@ -19,7 +20,8 @@ export const assets = {
     code,
     compass,
     gallery,
-    pathfinderlogo,
+    avocadoicon,
+    avocadologo,
     history,
     lightbulb,
     menu,
