@@ -58,7 +58,7 @@ export default function Main() {
                 <img src={assets.user} alt="User profile" />
               </div>
               <div className="result-data">
-                <img src={assets.avocadologo} alt="Avocado Logo" />
+                <img src={assets.avocadoicon} alt="Avocado Logo" />
                 {loading ?
                 <div className="loader">
                   <hr />
