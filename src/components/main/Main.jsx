@@ -29,7 +29,7 @@ export default function Main() {
             !showResult ?
             <>
               <div className="greet">
-                <p><span>PathfinderGPT</span></p>
+                <p><span>AvocadoGPT</span></p>
               </div>
 
               <div className="cards">
@@ -58,7 +58,7 @@ export default function Main() {
                 <img src={assets.user} alt="User profile" />
               </div>
               <div className="result-data">
-                <img src={assets.pathfinderlogo} alt="Pathfinder Logo" />
+                <img src={assets.avocadologo} alt="Avocado Logo" />
                 {loading ?
                 <div className="loader">
                   <hr />
@@ -81,8 +81,8 @@ export default function Main() {
                 placeholder="Enter your question" 
               />
             </div>
-            <a href = "https://pathfinder.health">
-              Pathfinder Health
+            <a href = "avocadohealth.ai">
+              avocadohealth.ai
             </a>
           </div>
         </div>
